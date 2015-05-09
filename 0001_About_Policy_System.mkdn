@@ -1,8 +1,11 @@
 # About the Policy System
 
-This policy system is a simple way for various groups to document current best
-practices and recommendations for scopes as narrow as individual authors, or
-guidelines as broad as CPAN.
+The Policy System is a collection of Policies, Standards and Guidelines for the
+world of Perl.
+
+It enables various groups to document current best practices and
+recommendations for scopes as narrow as individual authors, or guidelines as
+broad as CPAN.
 
 These policies are not necessarily gospel, but are merely a canonicalization
 of human knowledge in a more consumable way that doesn't require active
