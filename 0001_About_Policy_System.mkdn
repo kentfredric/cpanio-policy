@@ -1,0 +1,27 @@
+# About the Policy System
+
+This policy system is a simple way for various groups to document current best
+practices and recommendations for scopes as narrow as individual authors, or
+guidelines as broad as CPAN.
+
+These policies are not necessarily gospel, but are merely a canonicalization
+of human knowledge in a more consumable way that doesn't require active
+discussion.
+
+Members of a group may wish to enforce these standards within code they
+control, but there is nothing stopping an individual consulting these standards
+and adopting them as their own anyway.
+
+# Authorship of Policy sets
+
+There will at some stage be some more formal guidelines for best practices with
+laying out policy set contents and policies, but the following is the bare
+essentials of getting it working.
+
+1. Create a git repository.
+2. Populate it with markdown files (`.mkdn`)
+3. File a pull request against `https://github.com/book/CPANio/blob/book/publishing/cpanio.yml`
+to create a new source with a suitable description
+4. Wait for it to get synced ( Every hour )
+
+
