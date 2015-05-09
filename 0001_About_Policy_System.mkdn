@@ -26,7 +26,7 @@ essentials of getting it working.
 
 1. Create a git repository.
 2. Populate it with markdown files (`.mkdn`)
-3. File a pull request against `https://github.com/book/CPANio/blob/book/publishing/cpanio.yml`
+3. File a pull request against [book/CPANio:cpanio.yml](https://github.com/book/CPANio/blob/book/publishing/cpanio.yml)
 to create a new source with a suitable description
 4. Wait for it to get synced ( Every hour )
 
