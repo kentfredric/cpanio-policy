@@ -15,6 +15,9 @@ Members of a group may wish to enforce these standards within code they
 control, but there is nothing stopping an individual consulting these standards
 and adopting them as their own anyway.
 
+In fact, it is highly encouraged that people consider adopting the policies
+outlined here, especially those authored by P5P and Toolchain.
+
 # Authorship of Policy sets
 
 There will at some stage be some more formal guidelines for best practices with
